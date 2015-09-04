@@ -1,0 +1,14 @@
+# Windows
+Desktop.ini
+*.cab
+*.msi
+*.msm
+*.msp
+*.lnk
+# Binaries
+*.obj
+*.exe
+*.pdb
+# Visual Stidio
+*.suo
+*.sdf
